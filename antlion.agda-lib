@@ -1,0 +1,3 @@
+name: antlion
+depend: standard-library
+include: src
